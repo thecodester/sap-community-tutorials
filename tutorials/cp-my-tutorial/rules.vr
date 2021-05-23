@@ -1,0 +1,12 @@
+
+[VALIDATE_1]
+###Rule
+exact-match
+
+###Question
+What is the name of the header that contains your request token, and indicates which chatbot to query.
+
+###Match
+X-Token
+
+[VALIDATE_1]
