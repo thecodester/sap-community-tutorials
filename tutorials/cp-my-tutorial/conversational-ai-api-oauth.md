@@ -1,5 +1,5 @@
 ---
-title: Call SAP Conversational AI API Using OAuth
+title: Call SAP Conversational AI API Using OAuth 2
 description: Retrieve an OAuth token and use it to call the SAP Conversational AI API, using Python to create a web service.
 auto_validation: true
 time: 10
